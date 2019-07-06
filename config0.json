@@ -1,0 +1,9 @@
+{
+  "wordvec_file": ".data/glove.6B.100d.h5",
+  "train_file": ".data/gdb9.xyz",
+  "nepochs": 100,
+  "learning_rate": 0.01,
+  "batchsize": 10,
+  "train": true,
+  "device": 0
+}
